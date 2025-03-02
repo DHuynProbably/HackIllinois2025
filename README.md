@@ -1,1 +1,2 @@
 # HackIllinois2025
+Didn't have a lot of time to do this, but still wanted to do something cool. While this doesn't fit into any tracks, this is my first time using Pytorch and I am proud of the end result!
